@@ -1,5 +1,6 @@
-how to enable subscription rhel7 for yum repo
-ChatGPT said:
+how to enable subscription rhel7 for yum repo:
+============================================
+
 To enable subscription for RHEL 7 and configure the yum repository, you'll need to register the system with Red Hat Subscription Management (RHSM) and attach a valid subscription. Afterward, you can enable the necessary repositories. Here's the step-by-step process:
 
 1. Register the System with Red Hat
